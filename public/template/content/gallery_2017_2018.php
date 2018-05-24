@@ -66,59 +66,59 @@
     <!-- Photo Grid -->
     <div class="row">
     <div class="column">
-        <img src="public/img/gallery_2017_2018/plow1.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow2.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow3.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/team_before_semester.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow13.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow14.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow15.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow16.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow17.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow18.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_11.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_12.png" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow1.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow2.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow3.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/team_before_semester.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow13.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow14.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow15.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow16.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow17.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow18.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_11.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_12.jpeg" style="width:100%">
     </div>
     <div class="column">
-        <img src="public/img/gallery_2017_2018/batbot_13.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_14.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow7.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow8.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow9.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow19.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow20.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow21.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow22.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow23.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow24.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/alex.png" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_13.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_14.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow7.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow8.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow9.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow19.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow20.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow21.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow22.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow23.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow24.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/alex.jpeg" style="width:100%">
     </div>
     <div class="column">
-        <img src="public/img/gallery_2017_2018/plow4" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow5" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_1.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_2.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow6" style="width:100%">
-        <img src="public/img/gallery_2017_2018/and_lo_a_pale_horse.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow25.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow26.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow27.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_3.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_15.png" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow4.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow5.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_1.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_2.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow6.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/and_lo_a_pale_horse.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow25.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow26.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow27.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_3.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_15.jpeg" style="width:100%">
     </div>
     <div class="column">
-        <img src="public/img/gallery_2017_2018/batbot_4.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_5.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_6.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_7.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_8.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow10" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow11" style="width:100%">
-        <img src="public/img/gallery_2017_2018/plow12" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_9.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/batbot_10.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/dank_meal_everyone_missed.png" style="width:100%">
-        <img src="public/img/gallery_2017_2018/muzzy_bot.png" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_4.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_5.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_6.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_7.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_8.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow10.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow11.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/plow12.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_9.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/batbot_10.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/dank_meal_everyone_missed.jpeg" style="width:100%">
+        <img src="public/img/gallery_2017_2018/muzzy_bot.jpeg" style="width:100%">
     </div>
     </div>
 

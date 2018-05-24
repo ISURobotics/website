@@ -9,6 +9,7 @@
 <main>
 <?php
     include(TEMPLATE_PATH . '/header.php');
+    include(CONTENT_PATH . '/donate.php');
     include(TEMPLATE_PATH . '/footer.php');
     ?>
 </main>

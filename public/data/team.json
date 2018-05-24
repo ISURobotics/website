@@ -23,7 +23,7 @@
 			"name": "Jacob Pratt",
 			"position": "Vice President",
 			"social": ["github", "linkedin", "website", "mail", "hackerRank"],
-            "image": "public/img/jacob_pratt.png"
+            "image": "public/img/jacob_pratt"
 		},
 		{
 			"name": "Alex Harpenau",

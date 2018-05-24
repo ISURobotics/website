@@ -18,12 +18,16 @@
             <li class="nav-item <?php echo ($last == '/projects.php' ? ' active' : '');?>">
               <a href="<?php echo(ROOT . '/projects.php') ?>">PROJECTS</a>
             </li>
-            <li class="nav-item <?php echo ($last == '/officers.php' ? ' active' : '');?>">
-              <a href="<?php echo(ROOT . '/officers.php') ?>">OFFICERS</a>
-            </li>
             <li class="nav-item <?php echo ($last == '/calendar.php' ? ' active' : '');?>">
-              <a href="<?php echo(ROOT . '/calendar.php') ?>">CALENDAR</a>
+            <a href="<?php echo(ROOT . '/calendar.php') ?>">CALENDAR</a>
             </li>
+            <li class="nav-item <?php echo ($last == '/donate.php' ? ' active' : '');?>">
+            <a href="<?php echo(ROOT . '/donate.php') ?>">DONATE</a>
+            </li>
+            <li class="nav-item <?php echo ($last == '/officers.php' ? ' active' : '');?>">
+              <a href="<?php echo(ROOT . '/officers.php') ?>">MEMBERS</a>
+            </li>
+
             <li class="nav-item <?php echo ($last == '/gallery.php' ? ' active' : '');?>">
               <a href="<?php echo(ROOT . '/gallery.php') ?>">GALLERY</a>
             </li>

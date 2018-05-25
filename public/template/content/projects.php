@@ -79,15 +79,12 @@
     <a href="">
       <div class="project-box">
         <div class="img">
-          <img src="http://via.placeholder.com/1160x680" alt="">
+          <img src="public/img/snowplow_v2.jpeg" alt="">
         </div>
         <div class="info">
           <span class="disabled">2018 &centerdot; Automation | Sensing</span>
           <span class="title">SnowPlow</span>
-          <span class="body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Donec porta felis id dui tempor molestie. Aenean scelerisque urna ac odio condimentum, 
-            hendrerit pharetra nunc semper. Vivamus convallis non dolor at sollicitudin. Aenean neque nunc, 
-            pellentesque ac felis eget, accumsan sodales dui. Donec rhoncus</span>
+          <span class="body">The purpose of this project is to design, build and operate a fully autonomous snowplow for the purpose of removing snow from a designated path. This project requires mechanical, electrical, and software expertise. What makes this project unique in the world of robotics is its heavy focus on path planning combined with location sensing and obstacle avoidance. </span>
         </div>
       </div>
     </a>
@@ -109,7 +106,7 @@
     <a href="">
       <div class="project-box">
         <div class="img">
-          <img src="http://via.placeholder.com/1160x680" alt="">
+          <img src="public/img/bot_v1.jpeg" alt="">
         </div>
         <div class="info">
           <span class="disabled">2018 &centerdot; Automation</span>

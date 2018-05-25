@@ -6,7 +6,7 @@
   ?>
   <div id="nav">
       <nav class="navbar navbar-expand-md navbar-light">
-        <a href="index.html" class="navbar-brand"><img src="public/img/logo1.png" style="width: 100px; height: 70px" alt=""></a>
+        <a href="index.php" class="navbar-brand"><img src="public/img/logo1.png" style="width: 100px; height: 70px" alt=""></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>

@@ -10,6 +10,7 @@
 <?php
     include(TEMPLATE_PATH . '/header.php');
     include(CONTENT_PATH . '/donate.php');
+    include(CONTENT_PATH . '/contact_isu_foundation.php');
     include(TEMPLATE_PATH . '/footer.php');
     ?>
 </main>

@@ -1,4 +1,4 @@
-<section id="snowplow">
+<section id="donate">
     <div class="container">
         <h2>
             DONATE
@@ -11,9 +11,6 @@
         <div class="row" style="margin-bottom: 100px;">
         <h4> Our club is willing to work with any and all sponsors in a collaborative effort to represent them. Some examples of representation have been sponsor logos on shirts, logos and links on our site, and logos on our banners and posters. Similarly, during our competition presentations, we always make it a point to share who were our sponsors.  </h4>
         </div>
-
-
-
 
         <div class="row" style="margin-bottom: 50px;">
             <h4 align="left"> Level 1: &emsp; $1,000 and greater <br>
@@ -61,5 +58,6 @@
 
 
 
+    </div>
     </div>
 </section>

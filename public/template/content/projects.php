@@ -12,7 +12,7 @@
         <div class="box">
           <h4>BattleBot</h4>
         </div>
-        </div>
+      </div>
         <div class="col-md-4" data-toggle="modal" data-target="#snowModal">
           <div class="box">
             <h4>SnowPlow</h4>
@@ -85,21 +85,6 @@
           <span class="disabled">2018 &centerdot; Automation | Sensing</span>
           <span class="title">SnowPlow</span>
           <span class="body">The purpose of this project is to design, build and operate a fully autonomous snowplow for the purpose of removing snow from a designated path. This project requires mechanical, electrical, and software expertise. What makes this project unique in the world of robotics is its heavy focus on path planning combined with location sensing and obstacle avoidance. </span>
-        </div>
-      </div>
-    </a>
-    <a href="">
-      <div class="project-box">
-        <div class="img">
-          <img src="http://via.placeholder.com/1160x680" alt="">
-        </div>
-        <div class="info">
-          <span class="disabled">2018 &centerdot; Automation</span>
-          <span class="title">Exosuit</span>
-          <span class="body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Donec porta felis id dui tempor molestie. Aenean scelerisque urna ac odio condimentum, 
-            hendrerit pharetra nunc semper. Vivamus convallis non dolor at sollicitudin. Aenean neque nunc, 
-            pellentesque ac felis eget, accumsan sodales dui. Donec rhoncus</span>
         </div>
       </div>
     </a>

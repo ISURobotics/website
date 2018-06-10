@@ -3,13 +3,13 @@
 			"name": "Chinmay Hedge",
 			"position": "Assistant Professor",
 			"social": ["github", "linkedin", "website", "mail", "hackerRank"],
-            "image": "public/img/chinme_hedge.png"
+            "image": "public/img/chinme_hedge.jpeg"
 		},
 		{
 			"name": "Norman Muzzy",
 			"position": "Lecturer",
 			"social": ["github", "linkedin", "website", "mail", "hackerRank"],
-            "image": "public/img/muzzy_norm.png"
+            "image": "public/img/muzzy_norm.jpeg"
 		}
 	],
 
@@ -17,31 +17,31 @@
 			"name": "Kellen O'Conor",
 			"position": "President",
 			"social": ["github", "linkedin", "website", "mail", "hackerRank"],
-            "image": "public/img/kellen_o.png"
+            "image": "public/img/kellen_o.jpeg"
 		},
 		{
 			"name": "Jacob Pratt",
 			"position": "Vice President",
 			"social": ["github", "linkedin", "website", "mail", "hackerRank"],
-            "image": "public/img/jacob_pratt"
+            "image": "public/img/jacob_pratt.jpg"
 		},
 		{
 			"name": "Alex Harpenau",
 			"position": "Treasurer",
 			"social": ["github", "linkedin", "website", "mail", "hackerRank"],
-            "image": "public/img/alex_harpenau.png"
+            "image": "public/img/alex_harpenau.jpeg"
 		},
 		{
 			"name": "Logan Sperfslag",
 			"position": "Outreach ",
 			"social": ["github", "linkedin", "website", "mail", "hackerRank"],
-            "image": "public/img/logan_sperfslage.png"
+            "image": "public/img/logan_sperfslage.jpeg"
 		},
 		{
 			"name": "Shivkarthi Sundar",
 			"position": "Risk Manager",
 			"social": ["github", "linkedin", "website", "mail", "hackerRank"],
-            "image": "public/img/shiv_sundar.png"
+            "image": "public/img/shiv_sundar.jpeg"
 		},
 		{
 			"name": "Kamsi Ibeziako",

@@ -3,7 +3,7 @@
     <h2>SPONSORS</h2>
     <div class="row">
       <div class="col-sm-3 sponsor">
-        <img src="public/img/sponsor1.png" id="amc" alt="">
+        <img src="public/img/sponsor1.jpeg" id="amt" alt="">
       </div>
       <div class="col-sm-3 sponsor">
         <img src="public/img/sponsor2.png" id="" alt="">
